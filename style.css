@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin: 20px 0;
+}
+
+.center-image {
+  display: flex;
+  justify-content: center;
+}
+
+.center-image img {
+  max-width: 500px;
+}
+
+ul {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+}
